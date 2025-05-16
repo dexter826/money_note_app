@@ -3,7 +3,7 @@
 ## Ứng dụng ghi chép chi tiêu cá nhân
 
 <p align="center">
-  <img src="assets/animations/money_animation.json" alt="Money Note App Logo" height="100">
+  <img src="assets/images/logo.png" alt="Money Note App Logo" height="100">
 </p>
 
 ## Giới thiệu
